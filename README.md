@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**farboodniki-ctrl/farboodniki-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I’m a Data Science student at TU Chemnitz, Germany.
+
+💻 I’m passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
+
+🚀 My Interests
+
+* Artificial Intelligence & Machine Learning
+* Python & SQL
+* Data Science & Analytics
+* Bioinformatics & Computational Neuroscience
+* Sports Analytics
+
+🌱 What I’m Currently Doing
+
+* Developing my programming and analytical skills
+* Exploring machine learning and real-world applications of AI
+* Learning through hands-on projects and collaboration
+
+🎯 My Goal
+
+To combine creativity, analytical thinking, and technology to build meaningful solutions to real-world problems.
+
+🤝 Let’s Connect!
+
+I’m always excited to learn, collaborate, and explore innovative ideas with people from different backgrounds.
+
